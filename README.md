@@ -8,17 +8,18 @@ Kenneth Armstrong
 - Security+
 - CySA+
 - AZ-104
+- TryHackMe SOC1
+- TryHackMe SOC2
 
 ## Skills
 
 - Splunk
-- Microsoft Defender
+- Powershell
 - Rapid7
-- PowerShell
+- Linux
+- Microsoft Defender
 - Microsoft 365
 
 ## Projects
 
-- Splunk Investigations
-- PowerShell Security Scripts
-- Threat Hunting Labs# cybersecurity-portfolio
+- Splunk Queries
